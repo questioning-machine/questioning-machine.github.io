@@ -1,2 +1,2 @@
-### questioning Machine
-A Machine that reasons.
+### Questioning Machine
+A Machine that questions.
