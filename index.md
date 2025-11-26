@@ -1,19 +1,19 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Questioning Machine
 ---
-# Reasoning Machine
+# Questioning Machine
 
 <pre>
   'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Reasoning-Machine (meta)](https://reasoning-machine.github.io/meta/)
+[Questioning-Machine (meta)](https://questioning-machine.github.io/meta/)
 
-[Reasoning-Machine (openai)](https://reasoning-machine.github.io/openai/)
+[Questioning-Machine (openai)](https://questioning-machine.github.io/openai/)
 
-[Reasoning-Machine (fireworks)](https://reasoning-machine.github.io/fireworks/)
+[Questioning-Machine (fireworks)](https://questioning-machine.github.io/fireworks/)
 
-[Reasoning-Machine (depsek)](https://reasoning-machine.github.io/depsek/)
+[Questioning-Machine (depsek)](https://questioning-machine.github.io/depsek/)
 
