@@ -17,3 +17,4 @@ title: Questioning Machine
 
 [Questioning-Machine (depsek)](https://questioning-machine.github.io/depsek/)
 
+[Questioning-Machine (grok)](https://questioning-machine.github.io/grok/)
