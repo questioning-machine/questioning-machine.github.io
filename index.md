@@ -11,9 +11,9 @@ title: Questioning Machine
 
 [Questioning-Machine (meta)](https://questioning-machine.github.io/meta/)
 
-[Questioning-Machine (openai)](https://questioning-machine.github.io/openai/)
+[Questioning-Machine (oaio)](https://questioning-machine.github.io/oaio/)
 
-[Questioning-Machine (fireworks)](https://questioning-machine.github.io/fireworks/)
+[Questioning-Machine (gemini)](https://questioning-machine.github.io/gemini/)
 
 [Questioning-Machine (depsek)](https://questioning-machine.github.io/depsek/)
 
