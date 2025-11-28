@@ -15,6 +15,6 @@ title: Questioning Machine
 
 [Questioning-Machine (gemini)](https://questioning-machine.github.io/gemini/)
 
-[Questioning-Machine (depsek)](https://questioning-machine.github.io/depsek/)
+[Questioning-Machine (depsekr)](https://questioning-machine.github.io/depsekr/)
 
 [Questioning-Machine (grok)](https://questioning-machine.github.io/grok/)
